@@ -12,7 +12,7 @@ This project aims to build a shared, open, and continuously growing knowledge no
 
 - 建立一个庞大的共享知识笔记库
 - 让每个人的笔记都能被保存、查看和交流
-- 通过云端同步防止本地笔记丢失
+- 通过Github云端同步防止本地笔记丢失
 - 希望大家一起学习、一起进步
 
 - Build a large shared knowledge note library
