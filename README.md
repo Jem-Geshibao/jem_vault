@@ -1,76 +1,63 @@
-# jem_vault 🎬
+# jem_vault 📚
 
-个人漫剧创作笔记库 | Personal Anime/Comic Series Creation Notes
+共享知识笔记仓库 | Shared Knowledge Note Repository
 
-## 📋 项目概述 | Project Overview
+## 📋 项目简介 | Project Introduction
 
-**中文版本**
+这个项目旨在搭建一个共享、开放、持续成长的知识笔记仓库。所有人都可以将自己的学习笔记、经验总结、灵感记录、技术资料等内容提交到这里。通过 GitHub 进行版本管理和共享，帮助每个人把零散的知识沉淀为可持续积累的知识资产。
 
-这是一个个人创作笔记的 GitHub 备份仓库。在进行各类漫剧创作时，我使用 Obsidian 进行笔记记录和素材整理，然后使用Obsidian内置git插件自动将这些笔记同步备份到此仓库。仓库包含创作过程中的各种笔记、创意设定、AI 生成提示词、制作指南等内容。
+This project aims to build a shared, open, and continuously growing knowledge note repository. Everyone can contribute their own study notes, experience summaries, ideas, technical materials, and other content here. Through GitHub for version control and sharing, it helps everyone turn scattered knowledge into lasting knowledge assets.
 
-主要用途：
-- 📝 创作笔记的版本控制和云备份
-- 🎨 创意灵感和设定文档的汇总
-- 🤖 AI 工具生成提示词的存储
-- 📚 个人知识库的扩展
+## 🎯 仓库目标 | Project Goals
 
-**English Version**
+- 建立一个庞大的共享知识笔记库
+- 让每个人的笔记都能被保存、查看和交流
+- 通过云端同步防止本地笔记丢失
+- 希望大家一起学习、一起进步
 
-This is a personal note repository backed up to GitHub. During various anime/comic series creation projects, I use Obsidian for note-taking and material organization, and regularly sync these notes to this repository. It contains various notes, creative settings, AI generation prompts, production guides, and other content accumulated during the creative process.
+- Build a large shared knowledge note library
+- Make everyone's notes easy to save, view, and share
+- Prevent local notes from being lost through cloud synchronization
+- Hope everyone can learn and grow together
 
-Main purposes:
-- 📝 Version control and cloud backup for creative notes
-- 🎨 Summary of creative inspirations and design documents
-- 🤖 Storage of AI tool generation prompts
-- 📚 Extension of personal knowledge base
+## 📝 参与方式 | How to Contribute
 
-## 📁 仓库结构 | Repository Structure
+### 1. 手动提交
 
-```
-jem_vault/
-├── README.md
-└── [各类创作笔记文件]  / [Various creative note files]
-```
+你可以直接将自己的笔记文件添加到仓库中，并进行提交和推送。
 
-注：具体文件结构根据创作项目进行组织。
-(Note: The specific file structure is organized according to creative projects.)
+### 2. 使用 Obsidian + Git 插件自动同步
 
-## 🎯 仓库特点 | Repository Features
+也可以将本仓库克隆到本地，在 Obsidian 中使用 Git 插件进行自动同步。这样可以在日常记录和整理笔记的过程中，自动将内容同步到本仓库，方便长期保存和共享。
 
-✅ **灵活的笔记格式** — 支持 Markdown，易于阅读和编辑  
-✅ **多项目并行** — 存储不同漫剧/创意项目的笔记  
-✅ **完整的创意记录** — 从概念到制作细节的全面文档  
-✅ **AI 工具整合** — 包含各类 AI 生成提示词和实验  
-✅ **持续更新** — 随着创作进程不断补充和完善  
+## 📁 仓库内容 | Repository Content
 
-✅ **Flexible note format** — Markdown support for easy reading and editing  
-✅ **Parallel multi-project** — Notes for different anime/creative projects  
-✅ **Complete creative record** — Comprehensive documentation from concept to production details  
-✅ **AI tool integration** — Various AI generation prompts and experiments  
-✅ **Continuous updates** — Regular supplement and refinement with creative progress  
+本仓库适合存放以下内容：
 
-## 📖 使用方式 | Usage
+- 学习笔记
+- 读书笔记
+- 技术笔记
+- 工作总结
+- 想法与灵感
+- 资料整理
 
-这是一个**备份仓库**，主要作用是：
+## 🧭 使用建议 | Usage Tips
 
-1. **备份** — 保护 Obsidian 中的创作笔记
-2. **分享** — 便于与他人共享创意内容
-3. **查阅** — GitHub 作为补充的在线查阅平台
-4. **版本管理** — 追踪笔记的演变历史
+- 定期备份和更新笔记
+- 使用清晰的文件命名
+- 保持内容结构清晰，便于后续查阅
+- 欢迎持续补充和共同完善这个知识库
 
-This is a **backup repository**, primarily serving to:
+## 📄 说明 | Notes
 
-1. **Backup** — Protect creative notes from Obsidian
-2. **Sharing** — Facilitate sharing creative content with others
-3. **Reference** — GitHub as a supplementary online reference platform
-4. **Version management** — Track the evolution history of notes
+这个仓库的核心理念是：
 
-## 📄 版权声明 | Copyright Notice
+- 让知识能够被沉淀
+- 让笔记能够被长期保存
+- 让更多人能够一起分享和成长
 
-本仓库内容仅供个人参考、创意交流和学习之用。所有内容版权归原作者所有。
-
-Content in this repository is for personal reference, creative exchange, and educational purposes only. All content copyright belongs to the original author.
+欢迎大家一起参与，共同构建一个更加完整、实用、持续成长的知识笔记仓库。
 
 ---
 
-**最后更新 | Last Updated**: 2026-07-07
+**最后更新 | Last Updated**: 2026-07-08
