@@ -56,6 +56,8 @@ This project aims to build a shared, open, and continuously growing knowledge no
 - 让笔记能够被长期保存
 - 让更多人能够一起分享和成长
 
+如果在使用笔记、整理内容，或者在 Obsidian 中使用 Git 插件进行同步时遇到问题，欢迎到 Issues 中提交问题，我们一起协助解决。
+
 欢迎大家一起参与，共同构建一个更加完整、实用、持续成长的知识笔记仓库。
 
 ---
