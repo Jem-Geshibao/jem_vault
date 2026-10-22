@@ -74,6 +74,8 @@ Mood: nostalgic, tender, bittersweet, ending on hopeful resolve.
 Avoid: face morphing, costume changes within a shot, floating objects, background flicker, broken limbs, inconsistent lighting, physics errors, brand logos, copyrighted characters.
 ```
 
+```
+```
 ### 3.2 逐镜提示词（Shot-by-Shot Prompts for Agnes Video 2.5）
 
 #### L01 — 宿舍吃面开场
